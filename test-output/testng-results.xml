@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-14T19:57:30 IST" name="Default suite" finished-at="2023-06-14T19:57:42 IST" duration-ms="11955">
+  <suite started-at="2023-06-14T23:59:15 IST" name="Default suite" finished-at="2023-06-14T23:59:32 IST" duration-ms="17631">
     <groups>
     </groups>
-    <test started-at="2023-06-14T19:57:30 IST" name="Default test" finished-at="2023-06-14T19:57:42 IST" duration-ms="11955">
+    <test started-at="2023-06-14T23:59:15 IST" name="Default test" finished-at="2023-06-14T23:59:32 IST" duration-ms="17631">
       <class name="test.Genprodemotest">
-        <test-method is-config="true" signature="beftest()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T19:57:30 IST" name="beftest" finished-at="2023-06-14T19:57:34 IST" duration-ms="4469" status="PASS">
+        <test-method is-config="true" signature="beftest()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T23:59:15 IST" name="beftest" finished-at="2023-06-14T23:59:23 IST" duration-ms="8733" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beftest -->
-        <test-method is-config="true" signature="befmethod()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T19:57:34 IST" name="befmethod" finished-at="2023-06-14T19:57:36 IST" duration-ms="1548" status="PASS">
+        <test-method is-config="true" signature="befmethod()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T23:59:23 IST" name="befmethod" finished-at="2023-06-14T23:59:25 IST" duration-ms="1742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- befmethod -->
-        <test-method signature="test1()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T19:57:36 IST" name="test1" finished-at="2023-06-14T19:57:42 IST" duration-ms="5836" status="FAIL">
+        <test-method signature="test1()[pri:0, instance:test.Genprodemotest@52b1beb6]" started-at="2023-06-14T23:59:25 IST" name="test1" finished-at="2023-06-14T23:59:32 IST" duration-ms="7063" status="FAIL">
           <exception class="org.junit.ComparisonFailure">
             <message>
               <![CDATA[expected:<...//www.saucedemo.com/[]> but was:<...//www.saucedemo.com/[inventory.html]>]]>

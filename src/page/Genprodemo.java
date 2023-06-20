@@ -107,19 +107,13 @@ ChromeDriver cd;
 	{
 		cd.findElement(checkoutbutton).click();
 	}
-	public void firstname()
+	public void userdetails()
 	{
 		cd.findElement(firstname).sendKeys("Govindh");
-	}
-	public void lastname()
-	{
 		cd.findElement(lastname).sendKeys("G Kumar");
-		
-	}
-	public void pin() 
-	{
 		cd.findElement(Zip).sendKeys("689121");
 	}
+	
 	public void continuebutton()
 	{
 		cd.findElement(continuebutton).click();
